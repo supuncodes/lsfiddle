@@ -1,1 +1,1 @@
-# lsfiddle
+# lsfiddle - the logstash playground
